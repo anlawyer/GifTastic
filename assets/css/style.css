@@ -1,0 +1,14 @@
+#form {
+	float: right;
+	margin-right: 40px;
+	/*position: fixed;*/
+}
+
+#gifspace {
+	float: left;
+	margin-left: 25px;
+}
+
+#buttons {
+	margin: 25px;
+}
